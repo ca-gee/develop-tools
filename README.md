@@ -1,4 +1,4 @@
-# JSON处理工具
+# JSON工具
 
 <div align="center">
   <img src="src-tauri/icons/128x128.png" alt="JSON处理工具图标" width="128" height="128">
